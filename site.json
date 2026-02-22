@@ -3,9 +3,10 @@
     "navigation",
     "logo",
     "bio",
-    "releases",
     "socials",
-    "gallery"
+    "gallery",
+    "releases",
+    "header"
   ],
   "css": {
     "theme": "dark",
@@ -33,5 +34,10 @@
     "releases": [],
     "socials": {},
     "gallery": {}
+  },
+  "headerOptions": {
+    "showName": true,
+    "showGenre": false,
+    "showLogo": true
   }
 }
